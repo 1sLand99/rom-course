@@ -33,6 +33,11 @@ GitHub 项目地址：[https://github.com/feicong/rom-course](https://github.com
 欢迎加入系统定制技术交流微信群，分享安卓系统定制资源，交流系统定制技术。
 
 微信添加**feicongcn**邀请入群。
+
+## 微信公众号
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/e1bdaf8f-a372-4a60-b9de-b3a7d2ec68d0" />
+
 ## 免责申明
 
 本书籍内容仅供学习和研究使用，所有资料均来源于公开的安全技术文献、开源项目及个人经验分享。对于任何由于本书内容产生的直接或间接损失，本书作者及发布方概不负责。请读者在实际操作中遵守法律法规，避免从事任何非法或不道德的行为。
